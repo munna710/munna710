@@ -1,7 +1,12 @@
 
-<h1 align="center">Hi, I'm Munna</h1>
-I'm a passionate data engineer with a keen interest in turning data into actionable insights. Welcome to my GitHub profile, where you'll find a collection of projects and contributions reflecting my journey in the data engineering realm.
 
+<img src="https://64.media.tumblr.com/3aca7e84b3a6a52d10cc268ee103ec0d/677170b8b0cd1361-0f/s1280x1920/60d6c63df27ab0d070550fe2418a35cd50bc266a.gifv" align="center" width="5000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=00F8FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+,+I'm+Munna;" />
+<pre>
+I'm an aspiring Data Engineer passionate about transforming data into valuable insights. <br>
+Constantly exploring the ever-evolving world of data engineering, <br>I enjoy working with tools and technologies that empower organizations to make data-driven decisions.<br>
+Welcome to my GitHub profile, where you'll find a collection of projects and contributions <br>reflecting my journey in the data engineering realm.
+</pre>
 ## 💻 Tech Stack
 
 Here's a snapshot of my tech stack:
@@ -32,6 +37,6 @@ Here's a snapshot of my tech stack:
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=munna710&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=00F8FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+,+I'm+Munna;" />
+
 
 
