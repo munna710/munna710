@@ -1,6 +1,6 @@
 
 
-<img src="https://64.media.tumblr.com/3aca7e84b3a6a52d10cc268ee103ec0d/677170b8b0cd1361-0f/s1280x1920/60d6c63df27ab0d070550fe2418a35cd50bc266a.gifv" align="center" width="5000"/>
+<img src="https://www.htmlcsscolor.com/preview/gallery/00FFF8.png" align="center" width="5000" height="40"/>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=00F8FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+,+I'm+Munna;" />
 <pre>
 I'm an aspiring Data Engineer passionate about transforming data into valuable insights. <br>
@@ -38,5 +38,5 @@ Here's a snapshot of my tech stack:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=munna710&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<img src="https://www.htmlcsscolor.com/preview/gallery/00FFF8.png" align="center" width="5000" height="40"/>
 
