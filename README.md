@@ -29,5 +29,9 @@ Here's a snapshot of my tech stack:
   <img src="https://github-readme-stats.vercel.app/api?username=munna710&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=munna710&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=00F8FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+,+I'm+Munna;" />
 
 
