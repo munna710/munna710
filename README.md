@@ -1,7 +1,10 @@
 
 
 <img src="https://www.htmlcsscolor.com/preview/gallery/00FFF8.png" align="center" width="5000" height="40"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=70&duration=4000&pause=300&color=00F8FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+,+I'm+Munna;" />
+
+
 <img src="https://www.codedex.io/images/unlockableItems/ai-bot-sprite.png" align="left" width="50px" height="50px"/>
 <pre>
 I'm an aspiring Data Engineer passionate about transforming data into valuable insights. <br>
