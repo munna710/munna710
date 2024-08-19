@@ -13,7 +13,7 @@ Welcome to my GitHub profile, where you'll find a collection of projects and con
 </pre>
 
 
-<img src="https://media.tenor.com/Lfz-Om_RD9EAAAAi/rj-bt21.gif" align="left" width="" height=""/>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
@@ -28,7 +28,6 @@ Welcome to my GitHub profile, where you'll find a collection of projects and con
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=munna710&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://media.tenor.com/hn7acZyQc0sAAAAi/bt21.gif" align="right" width="" height=""/>
 
 <img src="https://www.htmlcsscolor.com/preview/gallery/00FFF8.png" align="center" width="5000" height="40"/>
 
